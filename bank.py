@@ -73,4 +73,4 @@ if parol==1234:
 else:
     if a==1:    print("Parol noto'g'ri❌")
     elif a==2:  print("Incorrect password❌")
-    elif a==3:  print('Неверный пароль❌')
+    elif a==3:  print('Неверный пароль❌!')
