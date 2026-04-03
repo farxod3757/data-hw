@@ -1,0 +1,1 @@
+open("b.funksiyasi.txt","xb")

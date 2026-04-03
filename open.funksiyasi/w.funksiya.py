@@ -1,0 +1,1 @@
+open("w.funksiyasi.txt","w")

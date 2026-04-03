@@ -1,0 +1,16 @@
+# ism="FARXOD"
+# fam=" YANGIBOYEV"
+# # print(ism[-1])
+# # print(ism[-2])
+# # print(ism[-3])
+# # print(ism[-4])
+# # print(ism[-5])
+# # print(ism[-6])
+# print(ism+fam)
+# print(f"bu {ism} ozgaruvchining uzunligi {len(ism)} ta harf")
+harf=input("soz: ")
+print(harf.lower())
+print(harf.upper())
+print(harf.strip())
+print(harf.replace("o","a"))
+print(harf.find("a"))
